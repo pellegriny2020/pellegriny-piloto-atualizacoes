@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1061,
+  "minimumVersionCode": 1061,
+  "versionName": "1.2.61",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1061/Lucro-na-Tela-Pro-v3.apk",
+  "sha256": "5dfc05fcb3569b8352e80ed690e6f7306eef85ceb006f5bd3311636b60dcf1e4",
+  "releaseNotes": "KM/HORA em uma única escolha para todas as plataformas. Estimativa por hora considera busca e viagem quando informadas. Melhorias na leitura do cartão flutuante da 99 Moto, tela principal sem sobreposição entre estatísticas, Meta do Dia e botões, e contador de segundos separado no card. Financeiro mantém o valor da corrida; R$/hora é uma estimativa. Dados preservados: atualize sem desinstalar."
+}
