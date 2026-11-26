@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1062,
+  "minimumVersionCode": 1062,
+  "versionName": "1.2.62",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1062/Lucro-na-Tela-Pro-v4.apk",
+  "sha256": "60397de16f24aa7955fa4fb4c9482271ebda83020409b8bfe55d00a7faf1e564",
+  "releaseNotes": "Ajuste de espaço na parte inferior da tela: Backup e PDF mais acima e Compartilhar app com mais espaço. Preserva KM/HORA para todas as plataformas, cálculos, financeiro, leitores e dados. Atualize sem desinstalar."
+}
