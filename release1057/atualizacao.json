@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1057,
+  "minimumVersionCode": 1057,
+  "versionName": "1.2.57",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1057/Lucro-na-Tela-1057.apk",
+  "sha256": "8fa4a50bcef9f4b4ee775bf08824e08bb95e15f9674876889a8273e574cc962d",
+  "releaseNotes": "Lucro na Tela Pró gratuito no lançamento: novo layout, Meta do Dia, financeiro completo e correções Uber Pacote/Envios. Quilômetros completos em todas as plataformas, sem arredondar a exibição ou os novos registros. Seus dados serão mantidos; não desinstale."
+}
