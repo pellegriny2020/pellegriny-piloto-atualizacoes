@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1058,
+  "minimumVersionCode": 1058,
+  "versionName": "1.2.58",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1058/Lucro-na-Tela-1058.apk",
+  "sha256": "34fdd9b0456a93a0b322db5bfedd3e9c9781d0b0e6a973fbd6e41f11ce3f4491",
+  "releaseNotes": "Painel adaptado à altura de cada tela, evitando o vão antes da Meta do Dia, e novo botão Compartilhar app com o link oficial. Dados, assinatura, leitores de ofertas e quilômetros completos preservados. Atualize sem desinstalar."
+}

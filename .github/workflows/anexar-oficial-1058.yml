@@ -1,0 +1,27 @@
+name: Anexar APK oficial 1058 validado
+on:
+  push:
+    branches: [anexar-oficial-pro-1058]
+permissions:
+  contents: write
+jobs:
+  anexar:
+    if: github.repository == 'pellegriny2020/pellegriny-piloto-atualizacoes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Conferir APK pronto sem compilar
+        working-directory: release1058
+        run: |
+          sha256sum --check SHA256SUMS.txt
+          echo '34fdd9b0456a93a0b322db5bfedd3e9c9781d0b0e6a973fbd6e41f11ce3f4491  Lucro-na-Tela-1058.apk' | sha256sum --check
+      - name: Anexar somente ao rascunho oficial 1058
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: pellegriny2020/pellegriny-piloto-atualizacoes
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REPOSITORY" = 'pellegriny2020/pellegriny-piloto-atualizacoes'
+          test "$(gh release view v1058 --json isDraft --jq .isDraft)" = 'true'
+          gh release upload v1058 release1058/Lucro-na-Tela-1058.apk release1058/atualizacao.json release1058/SHA256SUMS.txt --clobber
