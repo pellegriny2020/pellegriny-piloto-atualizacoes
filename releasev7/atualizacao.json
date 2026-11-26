@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1065,
+  "minimumVersionCode": 1065,
+  "versionName": "1.2.65",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1065/Lucro-na-Tela-Pro-v7.apk",
+  "sha256": "3a21144609a7f77280faf69814477fc529c2b72a1fc84848da36967e031c9729",
+  "releaseNotes": "Visual padronizado: Ganhos, Gastos, Lucro e Meta com o mesmo verde claro; botões inferiores na mesma cor e Suporte ao lado de Compartilhar. Gastos por categoria, custos mensais pelos dias reais do mês e aluguel mensal ou semanal com data de início. Financeiro, backup e PDF incluem os gastos. WhatsApp oficial de suporte. Preserva dados e cálculos KM/HORA. Atualize sem desinstalar."
+}
