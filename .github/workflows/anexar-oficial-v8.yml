@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v8
+      - uses: actions/checkout@v4
       - name: Conferir APK pronto sem compilar
         working-directory: releasev8
         run: |
