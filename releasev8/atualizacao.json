@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1066,
+  "minimumVersionCode": 1066,
+  "versionName": "1.2.66",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1066/Lucro-na-Tela-Pro-v8.apk",
+  "sha256": "c7489d5e20a08d46284dcc298cab23cb8466b12f71fad3cee86dc8f675ac92d1",
+  "releaseNotes": "Retorno das cores originais dos botões inferiores: Histórico e Backup azuis, Relatório laranja, Financeiro e PDF roxos. Valor de + GASTOS no mesmo verde dos ganhos, em negrito. Preserva os quatro fundos claros, Suporte ao lado de Compartilhar, gastos, aluguel mensal/semanal e cálculos KM/HORA. Atualize sem desinstalar para preservar seus dados."
+}
