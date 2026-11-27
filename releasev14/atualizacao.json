@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1072,
+  "minimumVersionCode": 1072,
+  "versionName": "1.2.72",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1072/Lucro-na-Tela-Pro-v14.apk",
+  "sha256": "faeae0ecbcde7e408de55504700a15b08114bbc9f7a3dffb7d807d37ca0db796",
+  "releaseNotes": "Rappi substitui inDrive na tela inicial. Leitura da oferta inicial e do pedido adicional, usando o ganho incremental junto dos quilômetros extras. Mantém o layout aprovado, títulos em maiúsculas, Meta abaixo de DEFINA SEUS GASTOS, menu inferior, Assistente de Voz e PRÓ grátis durante o lançamento. Atualize por cima, sem desinstalar, para preservar os dados. Nas telas Rappi sem duração, o modo HORA mostra SEM TEMPO; o contador de aceite não é usado como duração."
+}
