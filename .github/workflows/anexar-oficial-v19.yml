@@ -1,0 +1,25 @@
+name: Anexar APK oficial V19 validado
+on:
+  push:
+    branches: [anexar-oficial-pro-v19]
+permissions:
+  contents: write
+jobs:
+  anexar:
+    if: github.repository == 'pellegriny2020/pellegriny-piloto-atualizacoes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Conferir APK e manifesto prontos sem compilar
+        working-directory: releasev19
+        run: sha256sum --check SHA256SUMS.txt
+      - name: Anexar somente ao rascunho oficial 1077
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: pellegriny2020/pellegriny-piloto-atualizacoes
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REPOSITORY" = 'pellegriny2020/pellegriny-piloto-atualizacoes'
+          test "$(gh release view v1077 --json isDraft --jq .isDraft)" = 'true'
+          gh release upload v1077 releasev19/Lucro-na-Tela-Pro-v19.apk releasev19/atualizacao.json releasev19/SHA256SUMS.txt --clobber

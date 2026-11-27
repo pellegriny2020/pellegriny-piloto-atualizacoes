@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1077,
+  "minimumVersionCode": 1077,
+  "versionName": "1.2.77",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1077/Lucro-na-Tela-Pro-v19.apk",
+  "sha256": "bec8b72228aa620d4829c789bb9ba52906ac9c3122963e43dff3b7037a858906",
+  "releaseNotes": "Versão oficial com as melhorias aprovadas na V18: proteção contra repetição da Keeta, leitura em segundo plano com fila limitada, KM/HORA/MINUTO, ENTENDI verde, Indique e Ganhe legível e documentos completos no Mais. Menu começa com PRÓ, Site oficial, Instagram e Suporte; RAIO-X LC em breve, desativado. Mantém voz, histórico, financeiro, gastos, backup/PDF e PRÓ gratuito no lançamento. Atualize por cima, sem desinstalar, para preservar seus dados."
+}
