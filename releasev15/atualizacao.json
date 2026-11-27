@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1073,
+  "minimumVersionCode": 1073,
+  "versionName": "1.2.73",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1073/Lucro-na-Tela-Pro-v15.apk",
+  "sha256": "3eb14a98cc9ea54718a5ee75e4fae786bc10a11d3099a3e927e7d1044bd58715",
+  "releaseNotes": "Melhora a leitura de ofertas flutuantes sobre WhatsApp, tela inicial e outros aplicativos para todas as plataformas compatíveis. A janela visível passa a ser considerada mesmo quando o evento vem do sistema ou de outro aplicativo. Preserva cálculos, voz, Rappi, histórico, financeiro, gastos e layout. Atualize por cima, sem desinstalar, para preservar os dados. É necessário que a plataforma apresente uma oferta visível e legível com valor e distância."
+}

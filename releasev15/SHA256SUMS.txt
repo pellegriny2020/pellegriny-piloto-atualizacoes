@@ -1,0 +1,2 @@
+3eb14a98cc9ea54718a5ee75e4fae786bc10a11d3099a3e927e7d1044bd58715  Lucro-na-Tela-Pro-v15.apk
+ef6d0086c98f8ef0edb85184b3e9cdb5cfd760fa6d85d0a4d031cbc845979090  atualizacao.json
