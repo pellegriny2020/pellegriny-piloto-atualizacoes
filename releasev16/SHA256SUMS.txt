@@ -1,0 +1,2 @@
+3438928e7aed5cde846d4e96a5b23fb8949311e58a4b39b2170df138c70d62b1  Lucro-na-Tela-Pro-v16.apk
+266f1bb0ab662645c5911ffc863455cd7cf8e826ebdfcbdf916bd52e7c714dc3  atualizacao.json

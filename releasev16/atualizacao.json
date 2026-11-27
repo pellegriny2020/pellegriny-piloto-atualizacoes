@@ -1,0 +1,9 @@
+{
+  "packageName": "com.example.pellegrinyrc.teste",
+  "versionCode": 1074,
+  "minimumVersionCode": 1074,
+  "versionName": "1.2.74",
+  "apkUrl": "https://github.com/pellegriny2020/pellegriny-piloto-atualizacoes/releases/download/v1074/Lucro-na-Tela-Pro-v16.apk",
+  "sha256": "3438928e7aed5cde846d4e96a5b23fb8949311e58a4b39b2170df138c70d62b1",
+  "releaseNotes": "Inclui KM | HORA | MINUTO no seletor. Card mostra ganhos em R$/min com base na duração informada, incluindo busca e viagem quando disponíveis. HORA e MINUTO compartilham o limite: R$0,50/min equivale a R$30,00/h. Mantém SEM TEMPO quando não há duração e preserva cálculos por KM/HORA, voz, leitura de ofertas flutuantes, histórico, financeiro, gastos e layout. Atualize por cima, sem desinstalar, para preservar os dados."
+}
